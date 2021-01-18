@@ -19,13 +19,13 @@ function Home2() {
               <br />
               <br />Consistently striving in building a better understanding of Programming Languages like:
               <i>
-                <b className="purple"> HTML-5, CSS, C++, Javascript, JQuery, ES+6, Bootstrap. </b>
+                <b className="green"> HTML-5, CSS, C++, Javascript, JQuery, ES+6, Bootstrap. </b>
               </i>
               <br />
               <br />
               Future ambitions fall under researching&nbsp;
               <i>
-                <b className="purple">
+                <b className="green">
                   Gulp, Haskell, Homebridge, Perl, Phyton, and Rails
                 </b>
               </i>
@@ -33,11 +33,11 @@ function Home2() {
               <br />
               Whenever possible, I also apply my passion for developing into my personal
               <i>
-                <b className="purple"> Magic Mirror</b>
+                <b className="green"> Magic Mirror</b>
               </i>
               &nbsp; This Mirror, reflects an ongoing update of data to display via a
               <i>
-                <b className="purple"> Raspberry Pi  </b>
+                <b className="green"> Raspberry Pi  </b>
               </i>
             </p>
           </Col>
@@ -51,7 +51,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME</h1>
             <p>
-            <span className="purple">connect </span>with me
+            <span className="green">connect </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">

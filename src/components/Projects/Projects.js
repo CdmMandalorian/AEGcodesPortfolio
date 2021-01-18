@@ -22,7 +22,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-        Recent <strong className="purple">Works </strong>
+        Recent <strong className="green">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
           Portfolio
@@ -106,7 +106,7 @@ function Projects() {
 
         </Row>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Group </strong> Projects
+          My Recent <strong className="green">Group </strong> Projects
         </h1>
         <p style={{ color: "white" }}></p>
         <Row style={{ justifyContent: "center" }}>
