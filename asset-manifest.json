@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Armando-E-Galindo-ReactPortfolio/static/css/main.4436c124.chunk.css",
+    "main.js": "/Armando-E-Galindo-ReactPortfolio/static/js/main.f34916f9.chunk.js",
+    "main.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/main.f34916f9.chunk.js.map",
+    "runtime-main.js": "/Armando-E-Galindo-ReactPortfolio/static/js/runtime-main.729b0b24.js",
+    "runtime-main.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/runtime-main.729b0b24.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Armando-E-Galindo-ReactPortfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.fd95a81c.chunk.js": "/Armando-E-Galindo-ReactPortfolio/static/js/2.fd95a81c.chunk.js",
+    "static/js/2.fd95a81c.chunk.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/2.fd95a81c.chunk.js.map",
+    "static/js/3.5ae4e438.chunk.js": "/Armando-E-Galindo-ReactPortfolio/static/js/3.5ae4e438.chunk.js",
+    "static/js/3.5ae4e438.chunk.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/3.5ae4e438.chunk.js.map",
+    "index.html": "/Armando-E-Galindo-ReactPortfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Armando-E-Galindo-ReactPortfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.4436c124.chunk.css.map": "/Armando-E-Galindo-ReactPortfolio/static/css/main.4436c124.chunk.css.map",
+    "static/js/2.fd95a81c.chunk.js.LICENSE.txt": "/Armando-E-Galindo-ReactPortfolio/static/js/2.fd95a81c.chunk.js.LICENSE.txt",
+    "static/media/LongCut.9a5fc855.jpg": "/Armando-E-Galindo-ReactPortfolio/static/media/LongCut.9a5fc855.jpg",
+    "static/media/Notetaker.be4fb7e0.png": "/Armando-E-Galindo-ReactPortfolio/static/media/Notetaker.be4fb7e0.png",
+    "static/media/about.aee0f771.png": "/Armando-E-Galindo-ReactPortfolio/static/media/about.aee0f771.png",
+    "static/media/aeg-profile-pic.c95503f6.png": "/Armando-E-Galindo-ReactPortfolio/static/media/aeg-profile-pic.c95503f6.png",
+    "static/media/burger.80d73511.png": "/Armando-E-Galindo-ReactPortfolio/static/media/burger.80d73511.png",
+    "static/media/discover.b53ae151.png": "/Armando-E-Galindo-ReactPortfolio/static/media/discover.b53ae151.png",
+    "static/media/employee.9ac65209.png": "/Armando-E-Galindo-ReactPortfolio/static/media/employee.9ac65209.png",
+    "static/media/fitness.8b937613.png": "/Armando-E-Galindo-ReactPortfolio/static/media/fitness.8b937613.png",
+    "static/media/style.css": "/Armando-E-Galindo-ReactPortfolio/static/media/pre.4f2d3f53.svg",
+    "static/media/home-main.541f8179.svg": "/Armando-E-Galindo-ReactPortfolio/static/media/home-main.541f8179.svg",
+    "static/media/logo.49b1956c.png": "/Armando-E-Galindo-ReactPortfolio/static/media/logo.49b1956c.png",
+    "static/media/mirror.8f4c5034.png": "/Armando-E-Galindo-ReactPortfolio/static/media/mirror.8f4c5034.png",
+    "static/media/scheduler.d79bf462.png": "/Armando-E-Galindo-ReactPortfolio/static/media/scheduler.d79bf462.png",
+    "static/media/wd-Resume2020.1a99c731.pdf": "/Armando-E-Galindo-ReactPortfolio/static/media/wd-Resume2020.1a99c731.pdf",
+    "static/media/wildlife.8429e8fa.PNG": "/Armando-E-Galindo-ReactPortfolio/static/media/wildlife.8429e8fa.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.729b0b24.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.fd95a81c.chunk.js",
+    "static/css/main.4436c124.chunk.css",
+    "static/js/main.f34916f9.chunk.js"
+  ]
+}
