@@ -66,7 +66,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/CdmMandalorian"
+                  href="https://twitter.com/MandolorCodes"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -86,7 +86,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/cdmmagista6/"
+                  href="https://www.instagram.com/mandolorcodes/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

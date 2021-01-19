@@ -27,7 +27,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/CdmMandalorian"
+                href="https://twitter.com/MandolorCodes"
                 style={{ color: "white" }}
               >
                 <i className="fab fa-twitter"></i>
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/cdmmagista6/"
+                href="https://www.instagram.com/mandolorcodes/"
                 style={{ color: "white" }}
               >
                 <i className="fab fa-instagram"></i>
