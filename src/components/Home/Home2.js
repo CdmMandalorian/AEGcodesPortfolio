@@ -12,10 +12,10 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-               <span className="purple"> INTRODUCTION </span> 
+               <span className="green"> INTRODUCTION </span> 
             </h1>
             <p className="home-about-body">
-              Having grown within such a Technological era in life. A spark of interest has always been lit, for a better understanding of technology, computers, and programs.
+                A spark of interest has always been lit, for a better understanding of technology, computers, and programs.
               <br />
               <br />Consistently striving in building a better understanding of Programming Languages like:
               <i>
