@@ -1,5 +1,4 @@
 <h2 align="center">
-  <br>
   Armando E Galindo
   <br>
   React Portfolio<br/>
