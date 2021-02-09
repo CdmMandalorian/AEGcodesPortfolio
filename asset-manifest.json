@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Armando-E-Galindo-ReactPortfolio/static/css/main.f5530fb6.chunk.css",
-    "main.js": "/Armando-E-Galindo-ReactPortfolio/static/js/main.10e4abd6.chunk.js",
-    "main.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/main.10e4abd6.chunk.js.map",
-    "runtime-main.js": "/Armando-E-Galindo-ReactPortfolio/static/js/runtime-main.729b0b24.js",
-    "runtime-main.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/runtime-main.729b0b24.js.map",
+    "main.js": "/Armando-E-Galindo-ReactPortfolio/static/js/main.ca8e6243.chunk.js",
+    "main.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/main.ca8e6243.chunk.js.map",
+    "runtime-main.js": "/Armando-E-Galindo-ReactPortfolio/static/js/runtime-main.77de85ee.js",
+    "runtime-main.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/runtime-main.77de85ee.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/Armando-E-Galindo-ReactPortfolio/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.104336ec.chunk.js": "/Armando-E-Galindo-ReactPortfolio/static/js/2.104336ec.chunk.js",
-    "static/js/2.104336ec.chunk.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/2.104336ec.chunk.js.map",
-    "static/js/3.5ae4e438.chunk.js": "/Armando-E-Galindo-ReactPortfolio/static/js/3.5ae4e438.chunk.js",
-    "static/js/3.5ae4e438.chunk.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/3.5ae4e438.chunk.js.map",
+    "static/js/2.6901231c.chunk.js": "/Armando-E-Galindo-ReactPortfolio/static/js/2.6901231c.chunk.js",
+    "static/js/2.6901231c.chunk.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/2.6901231c.chunk.js.map",
+    "static/js/3.6d06d026.chunk.js": "/Armando-E-Galindo-ReactPortfolio/static/js/3.6d06d026.chunk.js",
+    "static/js/3.6d06d026.chunk.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/3.6d06d026.chunk.js.map",
     "index.html": "/Armando-E-Galindo-ReactPortfolio/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/Armando-E-Galindo-ReactPortfolio/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.f5530fb6.chunk.css.map": "/Armando-E-Galindo-ReactPortfolio/static/css/main.f5530fb6.chunk.css.map",
-    "static/js/2.104336ec.chunk.js.LICENSE.txt": "/Armando-E-Galindo-ReactPortfolio/static/js/2.104336ec.chunk.js.LICENSE.txt",
+    "static/js/2.6901231c.chunk.js.LICENSE.txt": "/Armando-E-Galindo-ReactPortfolio/static/js/2.6901231c.chunk.js.LICENSE.txt",
     "static/media/LongCut.9a5fc855.jpg": "/Armando-E-Galindo-ReactPortfolio/static/media/LongCut.9a5fc855.jpg",
     "static/media/Notetaker.be4fb7e0.png": "/Armando-E-Galindo-ReactPortfolio/static/media/Notetaker.be4fb7e0.png",
     "static/media/about.aee0f771.png": "/Armando-E-Galindo-ReactPortfolio/static/media/about.aee0f771.png",
@@ -31,10 +31,10 @@
     "static/media/wildlife.8429e8fa.PNG": "/Armando-E-Galindo-ReactPortfolio/static/media/wildlife.8429e8fa.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.729b0b24.js",
+    "static/js/runtime-main.77de85ee.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.104336ec.chunk.js",
+    "static/js/2.6901231c.chunk.js",
     "static/css/main.f5530fb6.chunk.css",
-    "static/js/main.10e4abd6.chunk.js"
+    "static/js/main.ca8e6243.chunk.js"
   ]
 }
