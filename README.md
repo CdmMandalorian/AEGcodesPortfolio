@@ -1,4 +1,7 @@
 <h2 align="center">
+  <br>
+  Armando E Galindo
+  <br>
   React Portfolio<br/>
   <a href="https://aeg-react-profile.herokuapp.com/" target="_blank"></a>
 </h2>
