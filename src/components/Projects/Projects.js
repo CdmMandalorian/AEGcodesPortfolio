@@ -14,7 +14,7 @@ import scheduler from "../../Assets/Projects/scheduler.png";
 import fitness from "../../Assets/Projects/fitness.png";
 import LongCut from "../../Assets/Projects/LongCut.jpg";
 import wildlife from "../../Assets/Projects/wildlife.PNG";
-import discover from "../../Assets/Projects/discover.png";
+import discover from "../../Assets/Projects/rediscover.gif";
 
 function Projects() {
   return (
@@ -113,25 +113,25 @@ function Projects() {
           <Col md={4} className="blog-card">
             <BlogCard
               imgPath={LongCut}
-              link="https://github.com/Tbonexas/longcut"
+              site="https://github.com/Tbonexas/longcut"
               title="The Long Cut"
-              site="https://tbonexas.github.io/longcut/"
+              link="https://tbonexas.github.io/longcut/"
             />
           </Col>
           <Col md={4} className="blog-card">
             <BlogCard
               imgPath={wildlife}
-              link="https://github.com/CdmMandalorian/Project-02"
+              site="https://github.com/CdmMandalorian/Project-02"
               title="Wildlife Observers"
-              site="https://project-wildlife-observer.herokuapp.com/"
+              link="https://project-wildlife-observer.herokuapp.com/"
             />
           </Col>
           <Col md={4} className="blog-card">
             <BlogCard
               imgPath={discover}
-              link="https://github.com/gfranco19/finalProject"
+              site="https://github.com/gfranco19/finalProject"
               title="ReDiscover"
-              site=""
+              link="https://rediscoverapp.netlify.app"
             />
           </Col>
         </Row>

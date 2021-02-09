@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/mandolorcodes/"
+                href="https://www.instagram.com/aegcodes/"
                 style={{ color: "white" }}
               >
                 <i className="fab fa-instagram"></i>

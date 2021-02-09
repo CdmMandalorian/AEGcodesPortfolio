@@ -51,7 +51,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME</h1>
             <p>
-            <span className="green">connect </span>with me
+            <span className="green"> Connect </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
@@ -86,7 +86,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/mandolorcodes/"
+                  href="https://www.instagram.com/aegcodes/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
