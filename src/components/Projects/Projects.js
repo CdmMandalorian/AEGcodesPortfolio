@@ -44,7 +44,7 @@ function Projects() {
               isBlog={false}
               title="Magic Mirror"
               description="MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
-              link=""
+              link="https://github.com/CdmMandalorian/MagicMirror.git"
             />
           </Col>
 
