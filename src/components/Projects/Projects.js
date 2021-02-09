@@ -113,7 +113,7 @@ function Projects() {
           <Col md={4} className="blog-card">
             <BlogCard
               imgPath={LongCut}
-              site="https://github.com/Tbonexas/longcut"
+              repo="https://github.com/Tbonexas/longcut"
               title="The Long Cut"
               link="https://tbonexas.github.io/longcut/"
             />
@@ -121,7 +121,7 @@ function Projects() {
           <Col md={4} className="blog-card">
             <BlogCard
               imgPath={wildlife}
-              site="https://github.com/CdmMandalorian/Project-02"
+              repo="https://github.com/CdmMandalorian/Project-02"
               title="Wildlife Observers"
               link="https://project-wildlife-observer.herokuapp.com/"
             />
@@ -129,7 +129,7 @@ function Projects() {
           <Col md={4} className="blog-card">
             <BlogCard
               imgPath={discover}
-              site="https://github.com/gfranco19/finalProject"
+              repo="https://github.com/gfranco19/finalProject"
               title="ReDiscover"
               link="https://rediscoverapp.netlify.app"
             />

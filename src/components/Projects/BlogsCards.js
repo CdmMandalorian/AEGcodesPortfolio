@@ -1,5 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
+import Button from "react-bootstrap/Button";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -17,8 +18,13 @@ function BlogsCards(props) {
         <Card.Footer>
           <i className="fas fa-external-link-square-alt">&nbsp;</i>
           {props.title}
+          <hr></hr>
 
-          <p style={{ marginBlockEnd: "0em" }}>{props.site}</p>
+          <Button variant="primary" href={props.repo} target="_blank">
+          <i className="cil-external-link">&nbsp;</i>
+          View Repo
+          </Button>
+
         </Card.Footer>
       </Card>
     </a>
