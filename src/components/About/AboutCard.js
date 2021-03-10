@@ -10,17 +10,17 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Welcome Everyone, I am <span className="green">  Armando  E  Galindo  </span>
-                  from 
+                   from 
             <br></br>
-            <span className="green"> ✨ Los Angeles, California 🌙</span>
-            <br />A Full Stack Web Developer, currently enrolled within UCR.  Persuing my passion, of learning, forging, and innovating with my creativity, dynamic based: Full Web Applications.
+            <span className="green"> ✨Los Angeles, California 🌙 </span>
+            <br />A Full Stack Web Developer, graduate from UCR.  Persuing my passion, of learning, forging, and innovating with my creativity, dynamic based: Full Web Applications.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-            <i class="fas fa-meteor"></i> Building Computers, and Playing Games 🖥💻 🎮
+            <i class="fas fa-meteor"></i> Building Computers, and Playing Games 🖥💻 
             </li>
             <li className="about-activity">
             <i class="fas fa-meteor"></i> Spectating, and Participating in the Beautiful Game ⚽
