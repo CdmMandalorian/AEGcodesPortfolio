@@ -13,7 +13,7 @@ function AboutCard() {
                    from 
             <br></br>
             <span className="green"> ✨Los Angeles, California 🌙 </span>
-            <br />A Full Stack Web Developer, graduate from UCR.  Persuing my passion, of learning, forging, and innovating with my creativity, dynamic based: Full Web Applications.
+            <br />A Software Engineer, graduate from UCR.  Pursuing my passion, of knowledge, innovation, creativity, forging functional dynamic based applications: Full Stack Web Developer.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

@@ -27,15 +27,16 @@ function Resume() {
               title="Project Manager | Continuous Improvement [ Ruskin ]"
               date="February 2019 - March 2020"
               content={[
-                "Assembled the data from various social media platforms using Twitter, Reddit.Interpreted the collected text using word-clouds and various other factors that affect the change of sentiments of youth.",
-                " Utilized the data to find the issues using Topic Modelling and Building models using LSTM, BERT to predict the sentiments of the youth.",
+                "The oversaw and analyzation of all the company’s work procedures to a determination, that is best safe and work efficient as possible. ",
+                "Adapted an elementary understanding of ISO 9001 Quality Management systems, to serve the customer with best service while understanding and overcoming obstacles that might hinge on customer satisfaction.",
+                "Ran construction development team, that produced a conference room, within a warehouse.",
               ]}
             />
             <h3 className="resume-title">Extracurricular Activities</h3>
             <Resumecontent
               title="Football Coach [ Ontario United 2010 - 2016 ]"
               content={[
-                "Succesfully ran the operations, and coached a succesful club football youth team.  Representing the City, travelling abroad participating in tournaments.",
+                "Victoriously ran the operations, and coached a succesful youth club football team.  Travelling abroad participating in tournaments while trimuphanlty representing the city.",
               ]}
             />
             <Resumecontent
@@ -66,7 +67,7 @@ function Resume() {
             <Resumecontent
               title=""
               content={[
-                "",
+                "Coach of the Year: 2012, 2013, 2014",
                 "",
                 "",
                 "",
