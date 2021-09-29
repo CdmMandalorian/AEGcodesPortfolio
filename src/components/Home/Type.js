@@ -12,6 +12,7 @@ function Type() {
           "Efficient Team Leader Advocate",
           "Experienced Professional Creator",
           "Explorer of Life",
+          "Youth Football Coach"
         ],
         autoStart: true,
         loop: true,

@@ -15,6 +15,9 @@ import fitness from "../../Assets/Projects/fitness.png";
 import LongCut from "../../Assets/Projects/LongCut.jpg";
 import wildlife from "../../Assets/Projects/wildlife.PNG";
 import discover from "../../Assets/Projects/rediscover.gif";
+import electric from "../../Assets/Projects/electric.png";
+import youvend from "../../Assets/Projects/electric.png";
+
 
 function Projects() {
   return (
@@ -22,11 +25,8 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-        Recent <strong className="green">Works </strong>
+        <strong className="green">Works </strong> Portfolio
         </h1>
-        <p style={{ color: "white" }}>
-          Portfolio
-        </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
@@ -106,7 +106,7 @@ function Projects() {
 
         </Row>
         <h1 className="project-heading">
-          My Recent <strong className="green">Group </strong> Projects
+          <strong className="green">Group </strong> Projects
         </h1>
         <p style={{ color: "white" }}></p>
         <Row style={{ justifyContent: "center" }}>
@@ -132,6 +132,27 @@ function Projects() {
               repo="https://github.com/gfranco19/finalProject"
               title="ReDiscover"
               link="https://rediscoverapp.netlify.app"
+            />
+          </Col>
+        </Row>
+        <h1 className="project-heading">
+         <strong className="green">Development </strong> Projects
+        </h1>
+        <Row style={{ justifyContent: "center" }}>
+          <Col md={4} className="development-card">
+          <BlogCard
+              imgPath={electric}
+              repo="https://github.com/CdmMandalorian/JsElectric"
+              title="J'S Electric"
+              link="https://cdmmandalorian.github.io/JsElectric/"
+            />
+          </Col>
+          <Col md={4} className="development-card">
+          <BlogCard
+              imgPath={youvend}
+              repo="https://github.com/Tbonexas/youvend"
+              title="YouVend"
+             
             />
           </Col>
         </Row>

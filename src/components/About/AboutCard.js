@@ -20,13 +20,19 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-            <i class="fas fa-meteor"></i> Building Computers, and Playing Games 🖥💻 
+            <i class="fas fa-meteor"></i> Vacationing on the Road... 
             </li>
             <li className="about-activity">
-            <i class="fas fa-meteor"></i> Spectating, and Participating in the Beautiful Game ⚽
+            <i class="fas fa-meteor"></i> Visiting Scenic Routes, and National Parks 🏔️🌲
             </li>
             <li className="about-activity">
-            <i class="fas fa-meteor"></i> Star Gazing 🌃
+            <i class="fas fa-meteor"></i> Moon and Star Watching 🌕🌃
+            </li>
+            <li className="about-activity">
+            <i class="fas fa-meteor"></i> Building Computers, Playing, Streaming Games🖥💻 
+            </li>
+            <li className="about-activity">
+            <i class="fas fa-meteor"></i> Coaching Football ⚽
             </li>
           </ul>
 

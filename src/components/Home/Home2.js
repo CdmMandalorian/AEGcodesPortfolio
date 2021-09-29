@@ -15,27 +15,27 @@ function Home2() {
                <span className="green"> INTRODUCTION </span> 
             </h1>
             <p className="home-about-body">
-                A spark of interest has always been lit, for a better understanding of technology, computers, and programs.
+                A Spark of Interest has Always been Lit, To Further Understand Technology, Computers, and Coding.
               <br />
-              <br />Consistently striving in building a better understanding of Programming Languages like:
+              <br />While Consistently Striving in Building A Better Understanding of Programming Tools and Languages Like:
               <i>
                 <b className="green"> HTML-5, CSS, C++, Javascript, JQuery, ES+6, Bootstrap. </b>
               </i>
               <br />
               <br />
-              Future ambitions fall under researching&nbsp;
+              Football Coach, Training the Culture of &nbsp;
               <i>
                 <b className="green">
-                  Gulp, Haskell, Homebridge, Perl, Phyton, and Rails
+                  YOUTH, COURAGE, SUCESS
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing into my personal
+              Whenever Possible, I also Apply my Passion into Developing my Personal Projects
               <i>
-                <b className="green"> Magic Mirror</b>
+                <b className="green"> The Magic Mirror</b>
               </i>
-              &nbsp; This Mirror, reflects an ongoing update of data to display via a
+              &nbsp; A Double-Sided Mirror that Reflects an Ongoing stream of Data via A
               <i>
                 <b className="green"> Raspberry Pi  </b>
               </i>

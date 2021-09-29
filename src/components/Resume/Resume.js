@@ -63,14 +63,22 @@ function Resume() {
               date="2004 - 2008"
               content={["Diploma"]}
             />
-            <h3 className="resume-title">Ranks and Achivements</h3>
+            <h3 className="resume-title">Coaching</h3>
+            <Resumecontent
+              title="AYSO Region 66 [ Ontario / Montclair ] "
+              date="2011 - 2016 | 2021 - "
+              content={[
+                "Coach of the Year: 2012, 2013, 2014",
+                "Select Coach: U12 Boys 2012",
+                "Select Coach: U14 Boys 2014",
+                "Assistant Coach U16 Boys 2016"
+              ]}
+            />
+            <h3 className="resume-title">Achivements</h3>
             <Resumecontent
               title=""
               content={[
-                "Coach of the Year: 2012, 2013, 2014",
-                "",
-                "",
-                "",
+                "Class Rank #1 - Senior Year High School",
               ]}
             />
           </Col>
