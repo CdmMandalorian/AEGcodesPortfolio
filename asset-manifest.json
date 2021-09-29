@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Armando-E-Galindo-ReactPortfolio/static/css/main.cd82c9ac.chunk.css",
-    "main.js": "/Armando-E-Galindo-ReactPortfolio/static/js/main.880d275f.chunk.js",
-    "main.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/main.880d275f.chunk.js.map",
+    "main.js": "/Armando-E-Galindo-ReactPortfolio/static/js/main.8a1f0126.chunk.js",
+    "main.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/main.8a1f0126.chunk.js.map",
     "runtime-main.js": "/Armando-E-Galindo-ReactPortfolio/static/js/runtime-main.77de85ee.js",
     "runtime-main.js.map": "/Armando-E-Galindo-ReactPortfolio/static/js/runtime-main.77de85ee.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/Armando-E-Galindo-ReactPortfolio/static/css/2.20aa2d7b.chunk.css",
@@ -30,13 +30,13 @@
     "static/media/scheduler.d79bf462.png": "/Armando-E-Galindo-ReactPortfolio/static/media/scheduler.d79bf462.png",
     "static/media/wd-Resume2020.1007320e.pdf": "/Armando-E-Galindo-ReactPortfolio/static/media/wd-Resume2020.1007320e.pdf",
     "static/media/wildlife.8429e8fa.PNG": "/Armando-E-Galindo-ReactPortfolio/static/media/wildlife.8429e8fa.PNG",
-    "static/media/youvend.862ba430.png": "/Armando-E-Galindo-ReactPortfolio/static/media/youvend.862ba430.png"
+    "static/media/youvend.42ea02dd.png": "/Armando-E-Galindo-ReactPortfolio/static/media/youvend.42ea02dd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.77de85ee.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.6901231c.chunk.js",
     "static/css/main.cd82c9ac.chunk.css",
-    "static/js/main.880d275f.chunk.js"
+    "static/js/main.8a1f0126.chunk.js"
   ]
 }
