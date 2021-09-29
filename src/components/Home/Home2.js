@@ -26,7 +26,7 @@ function Home2() {
               Football Coach, Training the Culture of &nbsp;
               <i>
                 <b className="green">
-                  YOUTH, COURAGE, SUCESS
+                  YOUTH, COURAGE, SUCCESS
                 </b>
               </i>
               <br />
