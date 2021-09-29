@@ -500,6 +500,14 @@ html {
   box-shadow: 0 3px 3px 5px rgba(66, 165, 66, 0.65) !important;
 }
 
+.development-card {
+  padding-top: 50px !important;
+  padding-bottom: 50px !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  height: auto !important;
+}
+
 .card-img-top {
   padding: 20px !important;
   opacity: 0.8 !important;
