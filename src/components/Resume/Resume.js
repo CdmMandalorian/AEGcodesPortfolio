@@ -78,7 +78,8 @@ function Resume() {
             <Resumecontent
               title=""
               content={[
-                "Class Rank #1 - Senior Year High School",
+                "Class Rank #1 - Senior Year High School - 4.20 GPA",
+                "Treasury -Foreign Language Club - Ontario High School"
               ]}
             />
           </Col>
