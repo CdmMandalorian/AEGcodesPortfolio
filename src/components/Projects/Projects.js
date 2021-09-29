@@ -16,7 +16,7 @@ import LongCut from "../../Assets/Projects/LongCut.jpg";
 import wildlife from "../../Assets/Projects/wildlife.PNG";
 import discover from "../../Assets/Projects/rediscover.gif";
 import electric from "../../Assets/Projects/electric.png";
-import youvend from "../../Assets/Projects/electric.png";
+import youvend from "../../Assets/Projects/youvend.png";
 
 
 function Projects() {
