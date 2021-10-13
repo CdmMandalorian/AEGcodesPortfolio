@@ -13,7 +13,7 @@ function Footer() {
           <h3> by Armando E Galindo</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} AEG</h3>
+          <h3>Copyright © {year} AEG Codes</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
