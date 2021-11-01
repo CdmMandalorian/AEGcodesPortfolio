@@ -30,7 +30,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/Armando-E-Galindo-ReactPortfolio/">
+        <Navbar.Brand href="/AEGcodesPortfolio/">
           <img src={logo} className="img-fluid logo" alt="brand" />
         </Navbar.Brand>
         <Navbar.Toggle
@@ -46,14 +46,14 @@ function NavBar() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto" defaultActiveKey="#home">
             <Nav.Item>
-              <Nav.Link as={Link} to="/Armando-E-Galindo-ReactPortfolio/" onClick={() => updateExpanded(false)}>
+              <Nav.Link as={Link} to="/AEGcodesPortfolio/" onClick={() => updateExpanded(false)}>
                 <i className="fas fa-home"></i> Home
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/Armando-E-Galindo-ReactPortfolio/about"
+                to="/AEGcodesPortfolio/about"
                 onClick={() => updateExpanded(false)}
               >
                 <i className="far fa-user"></i> About
@@ -62,7 +62,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/Armando-E-Galindo-ReactPortfolio/project"
+                to="/AEGcodesPortfolio/project"
                 onClick={() => updateExpanded(false)}
               >
                 <i className="fab fa-codepen"></i> Projects
@@ -71,7 +71,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/Armando-E-Galindo-ReactPortfolio/resume"
+                to="/AEGcodesPortfolio/resume"
                 onClick={() => updateExpanded(false)}
               >
                 <i className="far fa-file-alt"></i> Resume
@@ -80,7 +80,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/CdmMandalorian/Armando-E-Galindo-ReactPortfolio"
+                href="https://github.com/CdmMandalorian/AEGcodesPortfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >

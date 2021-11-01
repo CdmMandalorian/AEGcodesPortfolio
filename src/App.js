@@ -25,10 +25,10 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Switch>
-          <Route path="/Armando-E-Galindo-ReactPortfolio/" exact component={Home} />
-          <Route path="/Armando-E-Galindo-ReactPortfolio/project" component={Projects} />
-          <Route path="/Armando-E-Galindo-ReactPortfolio/about" component={About} />
-          <Route path="/Armando-E-Galindo-ReactPortfolio/resume" component={Resume} />
+          <Route path="/AEGcodesPortfolio/" exact component={Home} />
+          <Route path="/AEGcodesPortfolio/project" component={Projects} />
+          <Route path="/AEGcodesPortfolio/about" component={About} />
+          <Route path="/AEGcodesPortfolio/resume" component={Resume} />
         </Switch>
         <Footer />
       </div>

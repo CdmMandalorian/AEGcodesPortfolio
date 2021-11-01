@@ -15,16 +15,16 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/CdmMandalorian/Armando-E-Galindo-ReactPortfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/CdmMandalorian/AEGcodesPortfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/CdmMandalorian/AEGcodesPortfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/CdmMandalorian/Armando-E-Galindo-ReactPortfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/CdmMandalorian/AEGcodesPortfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/CdmMandalorian/Armando-E-Galindo-ReactPortfolio/issues">Request Feature</a>
+    <a href="https://github.com/CdmMandalorian/AEGcodesPortfolio/issues">Request Feature</a>
 </h3>
 
 
