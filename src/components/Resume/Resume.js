@@ -6,7 +6,7 @@ import Resumecontent from "./ResumeContent";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import pdf from "../../Assets/wd-Resume2020.pdf";
+import pdf from "../../Assets/aeg-Resume2021.pdf";
 
 function Resume() {
   
