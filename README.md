@@ -2,7 +2,6 @@
   Armando E Galindo
   <br>
   React Portfolio<br/>
-  <a href="https://aeg-react-profile.herokuapp.com/" target="_blank"></a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -29,8 +28,6 @@
 
 
 ## Built With
-
-My personal portfolio <a href="https://aeg-react-profile.herokuapp.com/" target="_blank"></a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -71,3 +68,7 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
+
+
+# Portfotlio
+My personal portfolio which features some of my Github Projects as well as my Resume and Technical Skills. [💼](https://cdmmandalorian.github.io/AEGcodesPortfolio/ "Link AEGcodes Portfolio").
