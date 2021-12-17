@@ -6,7 +6,7 @@ import Resumecontent from "./ResumeContent";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import pdf from "../../Assets/aeg-Resume2021.pdf";
+import pdf from "../../Assets/aegResume2022.pdf";
 
 function Resume() {
   
@@ -42,7 +42,7 @@ function Resume() {
             <Resumecontent
               title="Ground Control  [ Insomniac 2016-2018 ]"
               content={[
-                "Group of Guardian Angels, we are endlessly committed  in ensuring everyone safety at an Insomniac event. Ground Control's sole purpose is to guarantee everyone, to have a safe festival experience from the moment you arrive, to the moment you are assured a safe passage home.",
+                "Group of Guardian Angels, we are endlessly committed  in ensuring everyone's safety at an Insomniac event. Ground Control's sole purpose is to guarantee everyone, to have a safe festival experience from the moment you arrive, to the moment you are assured a safe passage home.",
               ]}
             />
           </Col>
@@ -78,7 +78,6 @@ function Resume() {
             <Resumecontent
               title=""
               content={[
-                "Class Rank #1 - Senior Year High School - 4.20 GPA",
                 "Treasury - Foreign Language Club - Ontario High School"
               ]}
             />
