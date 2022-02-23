@@ -34,7 +34,7 @@ function Resume() {
             />
             <h3 className="resume-title">Extracurricular Activities</h3>
             <Resumecontent
-              title="Football Coach [ Ontario United 2010 - 2016 ]"
+              title="Football Coach [ Ontario United 2011 - 2016 ]"
               content={[
                 "Victoriously ran the operations, and coached a succesful youth club football team.  Travelling abroad participating in tournaments while triumphantly representing the city.",
               ]}
