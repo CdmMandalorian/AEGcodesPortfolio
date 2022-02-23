@@ -455,6 +455,10 @@ html {
   height: auto !important;
 }
 
+button.deployButton.btn.btn-primary{
+  display: none;
+}
+
 .project-card-view {
   box-shadow: 0 4px 5px 3px rgba(30, 130, 29, 0.459) !important;
   color:#cdd1d5 !important;

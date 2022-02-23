@@ -29,12 +29,13 @@ function Projects() {
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
-            <ProjectCard
+            <ProjectCard 
+              link="https://astros-burgers.herokuapp.com/"
               imgPath={burger}
               isBlog={false}
               title="Astros Burgers"
-              description="Created my dream Burger Stand, using MySQL, Node, Express, and Handlebars, and a self personalized ORM. Combining all the basics to receive, post, update, and display data. A connecting bugers database, supplied, as well as User input accessible."
-              link="https://github.com/CdmMandalorian/astros-burgers"
+              description="Created my dream Burger Stand, using MySQL, Node, Express, and Handlebars, and a self personalized ORM. Combining all the basics to receive, post, update, and display data. A connecting bugers database, supplied, as well as User input accessible"
+              repo="https://github.com/CdmMandalorian/astros-burgers"
             />
           </Col>
 
@@ -43,8 +44,10 @@ function Projects() {
               imgPath={mirror}
               isBlog={false}
               title="Magic Mirror"
-              description="MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant."
-              link="https://github.com/CdmMandalorian/MagicMirror.git"
+              description="MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant
+              "
+              repo="https://github.com/CdmMandalorian/MagicMirror.git"
+              link=""
             />
           </Col>
 
@@ -70,7 +73,8 @@ function Projects() {
               ---Red = Hours to come
               
               ---Grey = Hours that have past"
-              link="https://github.com/CdmMandalorian/dynamicDayScheduler.github.io"
+              repo="https://github.com/CdmMandalorian/dynamicDayScheduler.github.io"
+              link="https://cdmmandalorian.github.io/dynamicDayScheduler/"
             />
           </Col>
 
@@ -79,8 +83,9 @@ function Projects() {
               imgPath={employee}
               isBlog={false}
               title="Eminent Employee Directory"
-              description="Created an employee direcotry with React. Eminently Search through established API employee database, Sidebar Component contains search results in Card form with ID, Name, Image, Number, Email, DOB. "
-              link="https://github.com/CdmMandalorian/Eminent-EmployeeDirectory"
+              description="Created an employee direcotry with React. Eminently Search through established API employee database, Sidebar Component contains search results in Card form with ID, Name, Image, Number, Email, DOB "
+              repo="https://github.com/CdmMandalorian/Eminent-EmployeeDirectory"
+              link="https://cdmmandalorian.github.io/Eminent-EmployeeDirectory/"
             />
           </Col>
 
@@ -89,8 +94,9 @@ function Projects() {
               imgPath={Notetaker}
               isBlog={false}
               title="Express Note Taker"
-              description="This is a note-taking application that allows a user to write, save, access, and edit notes to and from a JSON file. The front end uses JavaScript and jQuery, and the back end uses Node.js and Express routing."
-              link="https://github.com/CdmMandalorian/ExpressNoteTaker"
+              description="This is a note-taking application that allows a user to write, save, access, and edit notes to and from a JSON file. The front end uses JavaScript and jQuery, and the back end uses Node.js and Express routing"
+              repo="https://github.com/CdmMandalorian/ExpressNoteTaker"
+              link="https://express-notetaker-1.herokuapp.com/"
             />
           </Col>
 
@@ -100,7 +106,8 @@ function Projects() {
               isBlog={false}
               title="Finesse Fitness Tracker"
               description="This application is to create a Nosql, Workout Tracker; with a Mongo Database/Schema, and the utilization of Express Handle Bars routes"
-              link="https://github.com/CdmMandalorian/finesse-fitness-tracker"
+              repo="https://github.com/CdmMandalorian/finesse-fitness-tracker"
+              link=""
             />
           </Col>
 
@@ -152,7 +159,6 @@ function Projects() {
               imgPath={youvend}
               repo="https://github.com/Tbonexas/youvend"
               title="YouVend"
-             
             />
           </Col>
         </Row>

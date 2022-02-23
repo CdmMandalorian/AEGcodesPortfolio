@@ -13,7 +13,7 @@ function AboutCard() {
                    from 
             <br></br>
             <span className="green"> ✨Los Angeles, California🌙 </span>
-            <br />A Software Engineer, Graduate from UCR.  Pursuing my passion, of knowledge, innovation, creativity, forging functional dynamic based applications: Full Stack Web Developer.
+            <br />A Software Engineer, Graduate from UCR.  Pursuing my passion, of knowledge, innovation, creativity, forging functional dynamic based applications as a Full Stack Web Developer.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -32,7 +32,7 @@ function AboutCard() {
             <i class="fas fa-meteor"></i> Building Computers, Playing and Streaming Games 💻 
             </li>
             <li className="about-activity">
-            <i class="fas fa-meteor"></i> Coaching, Football⚽
+            <i class="fas fa-meteor"></i> Coaching, Football ⚽
             </li>
           </ul>
 
