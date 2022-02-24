@@ -15,11 +15,11 @@ function Home2() {
                <span className="green"> INTRODUCTION </span> 
             </h1>
             <p className="home-about-body">
-                A Spark of Interest has Always been Lit, To Further Understand Technology, Computers, and Coding.
+                A Spark of Ingenuity with Creativity, To Progress in Technology, Computers, Software Development, Engineering.
               <br />
-              <br />While Consistently Striving in Building A Better Understanding of Programming Tools and Languages Like:
+              <br />While Consistently Striving and Building a Better Understanding of Programming Tools and Languages Like:
               <i>
-                <b className="green"> HTML-5, CSS, C++, Javascript, JQuery, ES+6, Bootstrap. </b>
+                <b className="green"> HTML-5, CSS, C++, JavaScript, Node.js, React.js, JQuery, ES+6, Express.JS, Bootstrap, MaterialUI, MongoDB, MySQL, API's  </b>
               </i>
               <br />
               <br />
@@ -32,6 +32,8 @@ function Home2() {
               <br />
               <br />
               Whenever Possible, I also Apply my Passion into Developing my Personal Projects
+              <br />
+              <br />
               <i>
                 <b className="green"> The Magic Mirror</b>
               </i>
@@ -39,11 +41,21 @@ function Home2() {
               <i>
                 <b className="green"> Raspberry Pi  </b>
               </i>
+              <br />
+              <br />
+              <i>
+                <b className="green"> YouVend</b>
+              </i>
+              &nbsp; a
+              <i>
+                <b className="green"> 3D Printing E-Commerce Shop  </b>
+                &nbsp; in the development process
+              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={myImg} className="img.homeImg-fluid" alt="avatar" />
             </Tilt>
           </Col>
         </Row>

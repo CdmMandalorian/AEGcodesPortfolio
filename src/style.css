@@ -313,11 +313,14 @@ html {
     padding-bottom: 2em !important;
   }
 }
-
+div#home.home-section.container-fluid{
+height: 940px;
+}
 .home-about-section {
   position: relative;
   padding-bottom: 70px !important;
-  padding-top: 70px !important;
+  padding-top: 
+  0px !important;
 }
 
 .home-about-description {
@@ -747,4 +750,11 @@ button.deployButton.btn.btn-primary{
 }
 .fork-btn-inner::after {
   display: none !important;
+}
+img.img.homeImg-fluid{
+width: 300px;
+height: 340px;
+}
+div.myAvtar.col-md-4{
+  margin-top: 66px;
 }
