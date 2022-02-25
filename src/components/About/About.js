@@ -48,6 +48,7 @@ function About() {
           <Techstack iconName="devicon-mysql-plain-wordmark" />
           <Techstack iconName="devicon-git-plain-wordmark" />
           <Techstack iconName="devicon-bootstrap-plain-wordmark" />
+          <Techstack iconName="devicon-materialui-plain" />
         </Row>
         <h1 className="project-heading">
           <strong className="green">Tools</strong> I use
@@ -56,6 +57,9 @@ function About() {
           <Techstack iconName="cib-visual-studio-code" />
           <Techstack iconName="cib-postman" />
           <Techstack iconName="cib-heroku" />
+          <Techstack iconName="cib-netlify" />
+          <Techstack iconName="devicon-amazonwebservices-plain-wordmark" />
+          <Techstack iconName="cib-google-cloud" />
         </Row>
         <Github />
       </Container>
