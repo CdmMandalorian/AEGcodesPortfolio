@@ -19,11 +19,11 @@ function Home2() {
               <br />
               <br />While Consistently Striving and Building a Better Understanding of Programming Tools and Languages Like:
               <i>
-                <b className="green"> HTML-5, CSS, C++, JavaScript, Node.js, React.js, JQuery, ES+6, Express.JS, Bootstrap, MaterialUI, MongoDB, MySQL, API's  </b>
+                <b className="green"> HTML-5, CSS, C++, JavaScript, Node.js, React.js, JQuery, ES+6, Express.JS, Bootstrap, MaterialUI, MongoDB, MySQL, API's </b>
               </i>
               <br />
               <br />
-              Football Coach, Training the Culture of &nbsp;
+              Soccer Coach, Training the Culture of &nbsp;
               <i>
                 <b className="green">
                   YOUTH, COURAGE, SUCCESS

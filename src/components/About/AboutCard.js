@@ -26,13 +26,13 @@ function AboutCard() {
             <i class="fas fa-meteor"></i> Visiting Scenic Routes, and National Parks 🏔️🌲
             </li>
             <li className="about-activity">
-            <i class="fas fa-meteor"></i> Astrology and Astrophotography 📸🌕🌃
+            <i class="fas fa-meteor"></i> Astronomy and Astrophotography 📸🌕🌃
             </li>
             <li className="about-activity">
             <i class="fas fa-meteor"></i> Building Computers, Playing and Streaming Games 💻 
             </li>
             <li className="about-activity">
-            <i class="fas fa-meteor"></i> Coaching, Football ⚽
+            <i class="fas fa-meteor"></i> Coaching, Soccer ⚽
             </li>
           </ul>
 
