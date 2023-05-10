@@ -32,7 +32,7 @@ function AboutCard() {
             <i class="fas fa-meteor"></i> Building Computers, Playing and Streaming Games 💻 
             </li>
             <li className="about-activity">
-            <i class="fas fa-meteor"></i> Coaching, Soccer ⚽
+            <i class="fas fa-meteor"></i> The Beautiful Game ⚽
             </li>
           </ul>
 
