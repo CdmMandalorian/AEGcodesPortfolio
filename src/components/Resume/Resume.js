@@ -6,7 +6,7 @@ import Resumecontent from "./ResumeContent";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import pdf from "../../Assets/aegResume2022.pdf";
+import pdf from "../../Assets/AEGTechCodesResume23.5.pdf";
 
 function Resume() {
   
@@ -24,25 +24,32 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
+              title="Manager | Price Coordinator [ Staples ]"
+              date="February 2022 - "
+              content={[
+                "Monitor, track, appropriate prices in the store according to sales and corporate. Secure accuracy of prices. ",
+                "Oversee operations in store, maintaining daily responsibilities, ensuring efficient workflow. ",
+                "Nurtured employee confidence, and strong credibility",
+                "Recognized for achieving optimal results in Sales and Customer Service ",
+              ]}
+            />
+            <Resumecontent
               title="Project Manager | Continuous Improvement [ Ruskin ]"
               date="February 2019 - March 2020"
               content={[
-                "The oversaw and analyzation of all the company’s work procedures to a determination, that is best safe and work efficient as possible. ",
-                "Adapted an elementary understanding of ISO 9001 Quality Management systems, to serve the customer with best service while understanding and overcoming obstacles that might hinge on customer satisfaction.",
-                "Ran construction development team, that produced a conference room, within a warehouse.",
-              ]}
-            />
-            <h3 className="resume-title">Extracurricular Activities</h3>
-            <Resumecontent
-              title="Soccer Coach [ Ontario United 2011 - 2016 ]"
-              content={[
-                "Victoriously ran the operations, and coached a succesful youth club soccer team.  Travelling abroad participating in tournaments while triumphantly representing the city.",
+                "Analyzation of work procedures, to a determination, for the best safety protocols. ",
+                "Adapted an elementary understanding of ISO 9001 Quality Management systems, to serve the customer with best service while understanding and overcoming obstacles that might hinge on customer satisfaction. ",
+                "Effectively formulate strategies, tactics and action plans to achieve results. ",
+                "Provide high productive output while maintaining high morale . ",
               ]}
             />
             <Resumecontent
-              title="Ground Control  [ Insomniac 2016-2018 ]"
+              title="Manager | Front End [ Kmart ]"
+              date="September 2012 - December 2018"
               content={[
-                "Group of Guardian Angels, we are endlessly committed  in ensuring everyone's safety at an Insomniac event. Ground Control's sole purpose is to guarantee everyone, to have a safe festival experience from the moment you arrive, to the moment you are assured a safe passage home.",
+                "Lead, organized, and trained cashiers to the highest of customer ratings. ",
+                "Manage employees to maintain a clean and friendly work environment. ",
+                "Resolve all customer complaints " ,
               ]}
             />
           </Col>
@@ -63,15 +70,30 @@ function Resume() {
               date="2004 - 2008"
               content={["Diploma"]}
             />
+            <h3 className="resume-title">Extracurricular Activities</h3>
+            <Resumecontent
+              title="Soccer Coach | Manager [ Ontario United ]"
+              date="2011 - 2016"
+              content={[
+                "Managed operations, and victoriously coached a succesful youth club soccer team. Traveling abroad participating in tournaments while triumphantly representing the city of Ontario. Achieving proper resources needed to attain maximum team results. Hosting the enviroment to develop and obtain the ultimate impact for each individual. Excel in obtaining full parental support. Adhere and maintain high ethical standards and policies for all involved.",
+              ]}
+            />
+            <Resumecontent
+              title="Ground Control  [ Insomniac ]"
+              date="2016 - 2018"
+              content={[
+                " Often described as a group of Guardian Angels, endlessly committed  in ensuring everyone's safety at Insomniacs' events. Ground Control's sole purpose is to assure everyone, a safe festival experience from the moment you arrive, to the moment you are warrant a safe passage home. ",
+              ]}
+            />
             <h3 className="resume-title">Coaching</h3>
             <Resumecontent
               title="AYSO Region 66 [ Ontario / Montclair ] "
-              date="2011 - 2016 | 2021 - "
+              date="2011 - 2016 | 2021 "
               content={[
                 "Coach of the Year: 2012, 2013, 2014",
                 "Select Coach: U12 Boys 2012",
                 "Select Coach: U14 Boys 2014",
-                "Assistant Coach U16 Boys 2016"
+                "Select Assistant Coach: U16 Boys 2016"
               ]}
             />
             <h3 className="resume-title">Achivements</h3>
