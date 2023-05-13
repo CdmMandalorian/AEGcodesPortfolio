@@ -56,17 +56,17 @@ function Resume() {
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
-              title="University [ University of California, Riverside ]"
+              title=" [ University of California, Riverside ]"
               date="2020 - 2021"
               content={["Full Stack Web Development"]}
             />
             <Resumecontent
-              title="College [ Chaffey College, Rancho Cucamonga Ca ]"
+              title=" [ Chaffey College, Rancho Cucamonga ]"
               date="2010 - 2018"
               content={["Associate of Science in Mathematics, University Studies"]}
             />
             <Resumecontent
-              title="High School [ Ontario High School, Ontario Ca ] "
+              title=" [ Ontario High School ] "
               date="2004 - 2008"
               content={["Diploma"]}
             />
