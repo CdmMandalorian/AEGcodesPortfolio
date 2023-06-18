@@ -6,7 +6,7 @@ import Resumecontent from "./ResumeContent";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import pdf from "../../Assets/AEGTechCodesResume23.5.pdf";
+import pdf from "../../Assets/AEGTechCodesResume23.6.pdf";
 
 function Resume() {
   
