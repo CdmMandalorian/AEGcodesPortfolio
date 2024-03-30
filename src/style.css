@@ -758,3 +758,8 @@ height: 340px;
 div.myAvtar.col-md-4{
   margin-top: 66px;
 }
+@media (min-width: 1921px) and (max-width: 2560px) {
+  div#home.home-section.container-fluid{
+    height: 620px;
+    }
+}

@@ -17,6 +17,9 @@ import wildlife from "../../Assets/Projects/wildlife.PNG";
 import discover from "../../Assets/Projects/rediscover.gif";
 import electric from "../../Assets/Projects/electric.png";
 import youvend from "../../Assets/Projects/youvend.png";
+import EMP from "../../Assets/Projects/empHomeCityScape1920x1080Final.png"
+import ArtisanOtomiE from '../../Assets/Projects/ArtisanOtomiEcommerceMernHome.png'
+import ArtisanOtomiS from '../../Assets/Projects/AOShopifyHome.png'
 
 
 function Projects() {
@@ -146,6 +149,14 @@ function Projects() {
          <strong className="green">Development </strong> Projects
         </h1>
         <Row style={{ justifyContent: "center" }}>
+        <Col md={4} className="development-card"> 
+        <BlogCard
+              imgPath={EMP}
+              repo='https://github.com/CdmMandalorian/ExactMatchPersonnel'
+              title='Exact Match Personnel'
+              link='https://exactmatchpersonnel.com/'
+            />
+          </Col>  
           <Col md={4} className="development-card">
           <BlogCard
               imgPath={electric}
@@ -159,6 +170,26 @@ function Projects() {
               imgPath={youvend}
               repo="https://github.com/Tbonexas/youvend"
               title="YouVend"
+            />
+          </Col>
+        </Row>
+         <h1 className="project-heading">
+         <strong className="green">Ecommerce | Shopify </strong> Projects
+        </h1>
+        <Row style={{ justifyContent: "center" }}>
+        <Col md={4} className="development-card"> 
+        <BlogCard
+              imgPath={ArtisanOtomiE}
+              repo='https://github.com/CdmMandalorian/ArtisanOtomi'
+              title='Artisan Otomi'
+              link='https://artisan-otomi.vercel.app/'
+            />
+          </Col>  
+          <Col md={4} className="development-card">
+          <BlogCard
+              imgPath={ArtisanOtomiS}
+              repo="https://github.com/CdmMandalorian/ArtisanOtomi.Shopify"
+              title="Artisan Otomi Shopify App"
             />
           </Col>
         </Row>

@@ -6,7 +6,7 @@ import Resumecontent from './ResumeContent';
 import '../../style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import pdf from '../../Assets/AEGTechCodesResume23.7.3.pdf';
+import pdf from '../../Assets/AEGTechCodesResume24.3.pdf';
 
 function Resume() {
   return (
@@ -22,8 +22,16 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
+              title='Web Developer [ Exact Match Personnel ]'
+              date='October 2023 - '
+              content={['Lead Software Engineer, Developer, Designer for Exact Match Personnel. ',
+              'Built and created React progressive web application. ',
+              'Fully responsive | Mobile. ',
+              ]}
+            />
+            <Resumecontent
               title="Manager | Price Coordinator [ Staples ]"
-              date="February 2022 - "
+              date="February 2022 - February 2024 "
               content={[
                 'Monitor, track, appropriate prices in the store according to sales and corporate. Secure accuracy of prices. ',
                 'Oversee operations in store, maintaining daily responsibilities, ensuring efficient workflow. ',
