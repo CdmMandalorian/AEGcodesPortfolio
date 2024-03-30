@@ -43,8 +43,6 @@ function About() {
           <Techstack iconName="devicon-express-original-wordmark" />
           <Techstack iconName="devicon-react-original-wordmark" />
           <Techstack iconName="devicon-nodejs-plain-wordmark " />
-          <Techstack iconName='devicon-raspberrypi-plain' />
-          <Techstack iconName='devicon-photoshop-plain' />
           <Techstack iconName="devicon-c-line" />
           <Techstack iconName="devicon-cplusplus-plain" />
           <Techstack iconName='devicon-csharp-plain'/>
@@ -54,16 +52,14 @@ function About() {
           <Techstack iconName='devicon-handlebars-original-wordmark' />
           <Techstack iconName='devicon-nextjs-original-wordmark' />
           <Techstack iconName='devicon-json-plain' />
-
+          <Techstack iconName='devicon-raspberrypi-plain' />
           <Techstack iconName="devicon-mysql-plain-wordmark" />
           <Techstack iconName='devicon-sqldeveloper-plain' />
-          
-          
           <Techstack iconName='devicon-reactbootstrap-original' />
           <Techstack iconName="devicon-bootstrap-plain-wordmark" />
           <Techstack iconName="devicon-jquery-plain-wordmark" />
           <Techstack iconName="devicon-materialui-plain" />
-          
+          <Techstack iconName='devicon-photoshop-plain' />
         </Row>
         <h1 className="project-heading">
           <strong className="green">Tools</strong> I use
