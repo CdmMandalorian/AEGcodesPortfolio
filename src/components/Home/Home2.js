@@ -15,18 +15,18 @@ function Home2() {
                <span className="green"> INTRODUCTION </span> 
             </h1>
             <p className="home-about-body">
-                A Spark of Ingenuity with Creativity, To Progress in Technology, Computers, Software Development, Engineering.
+            Software Engineer - Full Stack Web Developer Passion Ingenuity with Creativity👨‍💻💡✨ Forging Fully Functional Dynamic Based Applications🎇🖥️💻📱.
               <br />
-              <br />While Consistently Striving and Building a Better Understanding of Programming Tools and Languages Like:
+              <br />Technological Stack:
               <i>
-                <b className="green"> HTML-5, CSS, C++, JavaScript, Node.js, React.js, JQuery, ES+6, Express.JS, Bootstrap, MaterialUI, MongoDB, MySQL, API's </b>
+                <b className="green"> MongoDB, Express.js, React, Node.js, ⚒️</b>
               </i>
               <br />
               <br />
-              Soccer Coach, Training the Culture of &nbsp;
+              Football Coach, Training the Culture of &nbsp;
               <i>
                 <b className="green">
-                  YOUTH, COURAGE, SUCCESS
+                  YOUTH, COURAGE, SUCCESS 🏆
                 </b>
               </i>
               <br />
@@ -39,17 +39,17 @@ function Home2() {
               </i>
               &nbsp; A Double-Sided Mirror that Reflects an Ongoing stream of Data via A
               <i>
-                <b className="green"> Raspberry Pi  </b>
+                <b className="green"> Raspberry Pi 🍓 </b>
               </i>
               <br />
               <br />
               <i>
-                <b className="green"> YouVend</b>
+                <b className="green"> Moon Calendar </b>
               </i>
-              &nbsp; a
+              &nbsp;a
               <i>
-                <b className="green"> 3D Printing E-Commerce Shop  </b>
-                &nbsp; in the development process
+                <b className="green"> Daily Moon Phase Calendar App 🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘 🌑 </b>
+                &nbsp;Based by location, With 7 Day Weather Forecast ☀️⛅🌧️.
               </i>
             </p>
           </Col>

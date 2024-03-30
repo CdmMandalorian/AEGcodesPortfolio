@@ -8,9 +8,8 @@ function Type() {
         strings: [
           "Software Engineer",
           "MERN Stack Developer",
+          "Full Stack Web Developer",
           "Efficient Team Leader Advocate",
-          "Software Developer",
-          "Professional Content Creator",
           "Explorer of Life", 
           "Scholar of Wisdom",
           "Proficient Front End Developer",
