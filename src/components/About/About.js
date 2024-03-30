@@ -74,8 +74,8 @@ function About() {
           <Techstack iconName="devicon-github-original" />
           <Techstack iconName='devicon-gitlab-plain' />
           <Techstack iconName='devicon-vercel-original' />
-          <Techstack iconName="cib-heroku" />
           <Techstack iconName="devicon-netlify-plain" />
+          <Techstack iconName="cib-heroku" />
           <Techstack iconName='cib-shopify' />
           <Techstack iconName='devicon-eslint-plain' />
           <Techstack iconName="cib-postman" />
