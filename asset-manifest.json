@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/AEGcodesPortfolio/static/css/main.feaa5966.css",
-    "main.js": "/AEGcodesPortfolio/static/js/main.c8b70633.js",
+    "main.css": "/AEGcodesPortfolio/static/css/main.7959b789.css",
+    "main.js": "/AEGcodesPortfolio/static/js/main.101ee48b.js",
     "static/js/320.f3196f77.chunk.js": "/AEGcodesPortfolio/static/js/320.f3196f77.chunk.js",
     "static/media/rediscover.gif": "/AEGcodesPortfolio/static/media/rediscover.3664806874313e3092f2.gif",
+    "static/media/empHomeCityScape1920x1080Final.png": "/AEGcodesPortfolio/static/media/empHomeCityScape1920x1080Final.c53b90cadcc253cdb0ba.png",
+    "static/media/AOShopifyHome.png": "/AEGcodesPortfolio/static/media/AOShopifyHome.391e9928b7fbbe085d58.png",
+    "static/media/ArtisanOtomiEcommerceMernHome.png": "/AEGcodesPortfolio/static/media/ArtisanOtomiEcommerceMernHome.b5a4a9c65076b492eac3.png",
     "static/media/LongCut.jpg": "/AEGcodesPortfolio/static/media/LongCut.9a5fc8550156620242fd.jpg",
     "static/media/youvend.png": "/AEGcodesPortfolio/static/media/youvend.42ea02dd5e238dd5f765.png",
     "static/media/wildlife.PNG": "/AEGcodesPortfolio/static/media/wildlife.8429e8fa052679ed5301.PNG",
@@ -16,18 +19,18 @@
     "static/media/scheduler.png": "/AEGcodesPortfolio/static/media/scheduler.d79bf462085b93f28b99.png",
     "static/media/home-bg.jpg": "/AEGcodesPortfolio/static/media/home-bg.6716018f60e34b23b01b.jpg",
     "static/media/aeg-profile-pic.png": "/AEGcodesPortfolio/static/media/aeg-profile-pic.c95503f6c51297fdb7dd.png",
-    "static/media/AEGTechCodesResume23.7.3.pdf": "/AEGcodesPortfolio/static/media/AEGTechCodesResume23.7.3.14a9e2c20c82bcc8d240.pdf",
+    "static/media/AEGTechCodesResume24.3.pdf": "/AEGcodesPortfolio/static/media/AEGTechCodesResume24.3.5385dcbe149eb66d3739.pdf",
     "static/media/fitness.png": "/AEGcodesPortfolio/static/media/fitness.8b9376130ac9e830b7ad.png",
     "static/media/employee.png": "/AEGcodesPortfolio/static/media/employee.9ac6520944564cc22074.png",
     "static/media/Notetaker.png": "/AEGcodesPortfolio/static/media/Notetaker.be4fb7e077812a586853.png",
     "index.html": "/AEGcodesPortfolio/index.html",
     "static/media/pre.svg": "/AEGcodesPortfolio/static/media/pre.4f2d3f53c6910bbfdf28.svg",
-    "main.feaa5966.css.map": "/AEGcodesPortfolio/static/css/main.feaa5966.css.map",
-    "main.c8b70633.js.map": "/AEGcodesPortfolio/static/js/main.c8b70633.js.map",
+    "main.7959b789.css.map": "/AEGcodesPortfolio/static/css/main.7959b789.css.map",
+    "main.101ee48b.js.map": "/AEGcodesPortfolio/static/js/main.101ee48b.js.map",
     "320.f3196f77.chunk.js.map": "/AEGcodesPortfolio/static/js/320.f3196f77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.feaa5966.css",
-    "static/js/main.c8b70633.js"
+    "static/css/main.7959b789.css",
+    "static/js/main.101ee48b.js"
   ]
 }
