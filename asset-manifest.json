@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AEGcodesPortfolio/static/css/main.84555375.css",
-    "main.js": "/AEGcodesPortfolio/static/js/main.016d55fe.js",
+    "main.js": "/AEGcodesPortfolio/static/js/main.1adcbccf.js",
     "static/js/320.f3196f77.chunk.js": "/AEGcodesPortfolio/static/js/320.f3196f77.chunk.js",
     "static/media/rediscover.gif": "/AEGcodesPortfolio/static/media/rediscover.3664806874313e3092f2.gif",
     "static/media/empHomeCityScape1920x1080Final.png": "/AEGcodesPortfolio/static/media/empHomeCityScape1920x1080Final.c53b90cadcc253cdb0ba.png",
@@ -26,11 +26,11 @@
     "index.html": "/AEGcodesPortfolio/index.html",
     "static/media/pre.svg": "/AEGcodesPortfolio/static/media/pre.4f2d3f53c6910bbfdf28.svg",
     "main.84555375.css.map": "/AEGcodesPortfolio/static/css/main.84555375.css.map",
-    "main.016d55fe.js.map": "/AEGcodesPortfolio/static/js/main.016d55fe.js.map",
+    "main.1adcbccf.js.map": "/AEGcodesPortfolio/static/js/main.1adcbccf.js.map",
     "320.f3196f77.chunk.js.map": "/AEGcodesPortfolio/static/js/320.f3196f77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84555375.css",
-    "static/js/main.016d55fe.js"
+    "static/js/main.1adcbccf.js"
   ]
 }
